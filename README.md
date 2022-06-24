@@ -28,28 +28,3 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/LedilsonLeonardo/LedilsonLeonardo/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src=""  />
-
-###
